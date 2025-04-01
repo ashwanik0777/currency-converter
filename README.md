@@ -26,7 +26,7 @@ To get started with the Currency Converter project, follow these steps:
 3. **Open the `index.html` file in your browser** to view the application.
 
 ## 🌐 Website
-Check out the live application [[here](https://your-website-link.com)](https://ashwanik0777.github.io/currency-converter/).
+Check out the live application [[here](https://ashwanik0777.github.io/currency-converter/)].
 
 ## 🤝 Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
